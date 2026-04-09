@@ -33,6 +33,3 @@ This repository contains the solutions for the PlatinumRx Data Analyst assignmen
 - Basic character tracing implementation was done instead of set coercions to ensure "loops" condition as requested.
 
 ```
-**GitHub Link:** https://github.com/yourusername/PlatinumRx_Assignment
-**Spreadsheet Link:** Provide your shared view link here or reference the file directly from the repo.
-```
