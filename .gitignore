@@ -1,0 +1,2 @@
+# Ignore the Python generate script for excel
+generate_excel.py
